@@ -1,23 +1,41 @@
+.div-1 {
+  margin: 0px 30px;
+}
+
 h1 {
-  text-align: center;
   color: #000000;
+  margin: 50px 630px;
 }
 
 #p1 {
   width: 1306px;
   height: 76px;
   color: #45338d;
+  margin-top: 56px;
+}
+
+.div-2 {
+  width: 1306px;
+  height: 106px;
+  background-color: rgba(204, 60, 60, 0.32);
+  margin-top: 40px;
 }
 
 #p2 {
   color: #e2296c;
+  padding: 15px;
 }
 
 #flower {
+  margin-top: 25px;
   width: 1306px;
   height: 200px;
 }
 #slider {
+  box-sizing: border-box;
+  border: 2px solid #36b561;
+  margin-top: 55px;
   width: 623px;
   height: 164px;
+  padding: 15px;
 }
